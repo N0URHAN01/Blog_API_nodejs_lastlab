@@ -50,9 +50,9 @@ npm run dev
 
 ---
 
-## 📦 Installed Dependencies
+##  Installed Dependencies
 
-the main dependencies used in this project install it if don't have node_modules :
+the main dependencies used in this project  :
 
 ```sh
 npm install express prisma @prisma/client dotenv jsonwebtoken bcrypt cors multer
